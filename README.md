@@ -21,3 +21,5 @@ X	Refleksi sumbu X
 Y	Refleksi sumbu Y
 R	Reset posisi
 ESC	Keluar program
+
+Mohon maaf pak saya tidak membuat video di youtube 
